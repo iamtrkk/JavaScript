@@ -65,6 +65,7 @@ transformer("hello", upperCase);
 ### Callback Functions
 
 - Used to define specific behaviors for higher-order functions.
+- Helps to do async operations in js
 
 ```javascript
 const greet = function (greeting) {
